@@ -8,3 +8,8 @@ C:\Users\yeulucay\Documents\CqrsExample\DomainModel\bin\Debug\DomainModel.pdb
 C:\Users\yeulucay\Documents\CqrsExample\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
 C:\Users\yeulucay\Documents\CqrsExample\DomainModel\obj\Debug\DomainModel.dll
 C:\Users\yeulucay\Documents\CqrsExample\DomainModel\obj\Debug\DomainModel.pdb
+C:\Users\y.e\Documents\GitHub\CqrsExample\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\y.e\Documents\GitHub\CqrsExample\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\y.e\Documents\GitHub\CqrsExample\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\y.e\Documents\GitHub\CqrsExample\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\y.e\Documents\GitHub\CqrsExample\DomainModel\obj\Debug\DomainModel.pdb

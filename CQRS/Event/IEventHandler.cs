@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace CQRS.Event
 {
-    public interface IEventHandler
+    public interface IEventHandler<TEvent> where TEvent : class
     {
-        Task Handle(BaseEvent @event);
+        Task Handle(TEvent @event);
     }
 }

@@ -8,10 +8,10 @@ using DomainModel;
 
 namespace CQRS.Event
 {
-    public class ItemCreatedEventHandler : IEventHandler
+    public class ItemCreatedEventHandler : IEventHandler<ItemCreatedEvent>
     {
 
-        public async Task Handle(BaseEvent @event)
+        public async Task Handle(ItemCreatedEvent @event)
         {
             if (@event is ItemCreatedEvent)
             {
@@ -31,5 +31,7 @@ namespace CQRS.Event
                 //TODO: Here, create object in DB
             }
         }
+
+       
     }
 }

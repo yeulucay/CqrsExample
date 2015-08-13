@@ -20,7 +20,7 @@ namespace CQRS.Helper
         {
             var handlers = GetHandlerTypes<T>().ToList();
             var eventHandler = handlers.Select(handler =>
-                (IEventHandler)ObjectFactory.GetInstance(handler)).FirstOrDefault();
+                (IEventHandler<T>)ObjectFactory.GetInstance(handler)).FirstOrDefault();
 
             if (eventHandler != null)
             {
@@ -30,9 +30,15 @@ namespace CQRS.Helper
 
         private IEnumerable<Type> GetHandlerTypes<T>() where T : BaseEvent
         {
-            var handlers = typeof(IEventHandler).Assembly.GetExportedTypes()
+            var hh = typeof(IEventHandler<>).Assembly.GetExportedTypes().ToList();
+
+            var h1 = typeof(IEventHandler<>).Assembly.GetExportedTypes()
                 .Where(x => x.GetInterfaces()
-                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(IEventHandler)))
+                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(IEventHandler<>))).ToList();
+
+            var handlers = typeof(IEventHandler<>).Assembly.GetExportedTypes()
+                .Where(x => x.GetInterfaces()
+                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(IEventHandler<>)))
                     .Where(h => h.GetInterfaces()
                         .Any(ii => ii.GetGenericArguments()
                             .Any(aa => aa == typeof(T)))).ToList();
