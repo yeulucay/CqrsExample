@@ -8,16 +8,16 @@ using System.Threading.Tasks;
 
 namespace CQRS.Command
 {
-    public class GenericCreateCommandHandler<T> : ICommandHandler<GenericCreateCommand<T>> where T : class
+    public class GenericCreateCommandHandler : ICommandHandler<CreateCommand>
     {      
-        public void Execute(GenericCreateCommand<T> command) 
+        public void Execute(CreateCommand command) 
         {
-            GenericCreateCommand<T> createCommand = (GenericCreateCommand<T>)command;
-            T dto = createCommand.GetDto;
+            CreateCommand createCommand = (CreateCommand)command;
 
-            var genericOnCreated = new GenericOnCreatedEvent<T>(Guid.NewGuid(), dto);
 
-            EventRepository.Instance.AddEvent<GenericOnCreatedEvent<T>>(genericOnCreated);
+            var genericOnCreated = new ItemCreatedEvent(Guid.NewGuid(), createCommand.Name, createCommand.CreateDate);
+
+            EventRepository.Instance.AddEvent<ItemCreatedEvent>(genericOnCreated);
         }
     }
 

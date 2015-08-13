@@ -39,7 +39,7 @@ namespace CQRS.Repository
             }
         }
 
-        public void AddEvent<T>(BaseEvent @event) where T : BaseEvent
+        public void AddEvent<T>(T @event) where T : BaseEvent
         {
             this.eventList.Add(@event);
 

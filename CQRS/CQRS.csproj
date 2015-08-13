@@ -44,13 +44,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Command\BaseCommand.cs" />
-    <Compile Include="Command\GenericCreateCommand.cs" />
+    <Compile Include="Command\CreateCommand.cs" />
     <Compile Include="Command\GenericCreateCommandHandler.cs" />
     <Compile Include="Command\ICommandHandler.cs" />
     <Compile Include="DomainModel\FileDto.cs" />
     <Compile Include="Event\BaseEvent.cs" />
-    <Compile Include="Event\GenericOnCreatedEvent.cs" />
-    <Compile Include="Event\GenericOnCreatedEventHandler.cs" />
+    <Compile Include="Event\ItemCreatedEvent.cs" />
+    <Compile Include="Event\ItemCreatedEventHandler.cs" />
     <Compile Include="Event\IEventHandler.cs" />
     <Compile Include="Helper\CommandManager.cs" />
     <Compile Include="Helper\EventManager.cs" />

@@ -19,11 +19,11 @@ namespace FileManager.Controllers
     {
         [HttpPost]
         [Route("Create")]
-        public HttpResponseMessage Create(File fileDto)
+        public HttpResponseMessage Create(FileDto fileDto)
         {
             CommandManager cm = new CommandManager();
 
-            cm.Send(new GenericCreateCommand<File>(Guid.NewGuid(), fileDto));
+            cm.Send(new CreateCommand(Guid.NewGuid(), fileDto.Name, fileDto.CreateDate));
 
             return new HttpResponseMessage(HttpStatusCode.OK);
         }

@@ -20,3 +20,20 @@ C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Deb
 C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\EntityFramework.xml
 C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\AppDatabase.mdf
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\AppDatabase_log.ldf
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\CQRS.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\CQRS.pdb
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\DAL.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\DomainModel.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\EntityFramework.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\DAL.pdb
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\DomainModel.pdb
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\EntityFramework.xml
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\obj\Debug\CQRS.csprojResolveAssemblyReference.cache
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\obj\Debug\CQRS.dll
+C:\Users\yeulucay\Documents\CqrsExample\CQRS\obj\Debug\CQRS.pdb

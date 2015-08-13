@@ -26,19 +26,20 @@ namespace CQRS.Helper
 
         private List<Type> GetHandlerTypes<T>() where T : BaseCommand
         {
-           
-            var handlers = typeof(ICommandHandler<>).Assembly.GetExportedTypes().Where(x => x.GetInterfaces()
-                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(ICommandHandler<>))).ToList();  
+            var h1 = typeof(ICommandHandler<>).Assembly.GetExportedTypes()
+                .Where(x => x.GetInterfaces()
+                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(ICommandHandler<>))).ToList();
 
-            //var handlers = typeof(ICommandHandler<>).Assembly.GetExportedTypes()
-            //    .Where(x => x.GetInterfaces()
-            //        .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(ICommandHandler<>)))
-            //        .Where(h => h.GetInterfaces()
-            //            .Any(ii => ii.GetGenericArguments()
-            //                .Any(aa => aa == typeof(T)))).ToList();
+            var handlers = typeof(ICommandHandler<>).Assembly.GetExportedTypes()
+                .Where(x => x.GetInterfaces()
+                    .Any(a => a.IsGenericType && a.GetGenericTypeDefinition() == typeof(ICommandHandler<>)))
+                    .Where(h => h.GetInterfaces()
+                        .Any(ii => ii.GetGenericArguments()
+                            .Any(aa => aa == typeof(T)))).ToList();
 
 
-            return handlers;
+             return handlers;
+
         }
     }
 }
