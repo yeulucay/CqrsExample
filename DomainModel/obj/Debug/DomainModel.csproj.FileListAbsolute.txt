@@ -1,0 +1,5 @@
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\DomainModel\bin\Debug\DomainModel.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\DomainModel\bin\Debug\DomainModel.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\DomainModel\obj\Debug\DomainModel.csprojResolveAssemblyReference.cache
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\DomainModel\obj\Debug\DomainModel.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\DomainModel\obj\Debug\DomainModel.pdb

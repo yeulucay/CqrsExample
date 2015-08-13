@@ -1,0 +1,22 @@
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\CQRS\bin\Debug\CQRS.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\CQRS\bin\Debug\CQRS.pdb
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\CQRS\obj\Debug\CQRS.csprojResolveAssemblyReference.cache
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\CQRS\obj\Debug\CQRS.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\CQRS\obj\Debug\CQRS.pdb
+C:\Users\y.e\Desktop\FileManager\CQRS\bin\Debug\CQRS.dll
+C:\Users\y.e\Desktop\FileManager\CQRS\bin\Debug\CQRS.pdb
+C:\Users\y.e\Desktop\FileManager\CQRS\obj\Debug\CQRS.csprojResolveAssemblyReference.cache
+C:\Users\y.e\Desktop\FileManager\CQRS\obj\Debug\CQRS.dll
+C:\Users\y.e\Desktop\FileManager\CQRS\obj\Debug\CQRS.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\AppDatabase.mdf
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\AppDatabase_log.ldf
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\DAL.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\DomainModel.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\EntityFramework.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\DAL.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\DomainModel.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\EntityFramework.xml
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\CQRS\bin\Debug\Microsoft.AspNet.Identity.Core.xml

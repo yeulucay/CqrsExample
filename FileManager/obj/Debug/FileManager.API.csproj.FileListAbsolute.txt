@@ -1,0 +1,116 @@
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\FileManager.dll.config
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\FileManager.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\FileManager.pdb
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Antlr3.Runtime.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Web.Infrastructure.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Newtonsoft.Json.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Owin.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Net.Http.Formatting.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Helpers.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.Owin.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.WebHost.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Mvc.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Optimization.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Razor.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.Deployment.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.Razor.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\WebGrease.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Net.Http.Formatting.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.Owin.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Newtonsoft.Json.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Helpers.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Http.WebHost.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Mvc.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Optimization.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.Razor.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.Deployment.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\System.Web.WebPages.Razor.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Antlr3.Runtime.pdb
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.API.csprojResolveAssemblyReference.cache
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\obj\Debug\FileManager.pdb
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\EntityFramework.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\EntityFramework.SqlServer.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Security.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\EntityFramework.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\EntityFramework.SqlServer.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Security.xml
+c:\users\yeulucay\documents\visual studio 2013\Projects\FileManager\FileManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\FileManager.dll.config
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\FileManager.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\FileManager.pdb
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Antlr3.Runtime.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\EntityFramework.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\EntityFramework.SqlServer.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Security.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Newtonsoft.Json.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Owin.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Net.Http.Formatting.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Helpers.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.Owin.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.WebHost.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Mvc.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Optimization.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Razor.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.Deployment.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.Razor.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\WebGrease.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\EntityFramework.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\EntityFramework.SqlServer.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Security.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Net.Http.Formatting.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.Owin.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Newtonsoft.Json.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Helpers.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Http.WebHost.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Mvc.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Optimization.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.Razor.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.Deployment.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\System.Web.WebPages.Razor.xml
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\Antlr3.Runtime.pdb
+C:\Users\y.e\Desktop\FileManager\FileManager\obj\Debug\FileManager.API.csprojResolveAssemblyReference.cache
+C:\Users\y.e\Desktop\FileManager\FileManager\obj\Debug\FileManager.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\obj\Debug\FileManager.pdb
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\CQRS.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\StructureMap.dll
+C:\Users\y.e\Desktop\FileManager\FileManager\bin\CQRS.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\Authorization.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\CQRS.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\DomainModel.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\DAL.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\StructureMap.dll
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\Authorization.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\CQRS.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\DomainModel.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\DAL.pdb
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\AppDatabase.mdf
+C:\Users\yeulucay\Documents\Visual Studio 2013\Projects\FileManager\FileManager\bin\AppDatabase_log.ldf
